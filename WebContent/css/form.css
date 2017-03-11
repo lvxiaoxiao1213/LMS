@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+.form_boxA{}
+.form_boxA
+.form_boxA th{border-bottom:#e3e3e3 ; font-size:14px; padding:8px 0px;}
+.form_boxA td{border-bottom:#e3e3e3 ;  font-size:14px; padding:8px 8px;}
+.form_boxA a{ color:#3085be; text-decoration:none;}
+.form_boxA a:hover{ color:#1e628f; text-decoration:underline;}
